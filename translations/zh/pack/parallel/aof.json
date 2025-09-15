@@ -1,25 +1,25 @@
 [
     {
         "code": "90081",
-        "name": "Father Mateo",
-        "subname": "The Priest",
-        "text": "[fast] During your turn: Seal a [bless] token on an investigator at your location with no [bless] token sealed on them. (Limit once per round.)\n[reaction] When an investigator would reveal a chaos token: Resolve the [bless] token sealed on them instead. Release that token.\n[elder_sign] effect: +1. Resolve Father Mateo's [fast] ability, ignoring its limit.",
-        "traits": "Believer. Warden.",
-        "back_flavor": "Mateo Castile's life has not been easy since he became a priest. Recent decades in Mexico have been wracked with instability and conflict. Father Mateo struggled to balance his faith with the pragmatic concerns of preaching when the law told him he must not. But this is not what has assaulted Mateo's faith at its core. The nearby murders and kidnappings were not politically motivated, as he had suspected. A gruesome and horrid cult thrives at the heart of the brewing war. How, Mateo wonders, could a kind and loving God allow what he saw that night to exist?",
-        "back_text": "<b>Deck Size:</b> 30.\n<b>Deckbuilding Options:</b> Mystic cards ([mystic]) level 0-3, [[Blessed]] cards level 0-5, Neutral cards level 0-5, up to 5 other cards with \"seal\" level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): The Codex of Ages, Serpents of Yig, 1 random basic weakness.\n"
+        "name": "馬泰奧神父",
+        "subname": "牧師",
+        "text": "[fast] 在你的回合期間: 在一位你所在地點, 沒有封印[bless]標記的調查員上封印一個[bless]標記(每輪限制1次。)\n[reaction] 在一位調查員將要抽出一個混亂標記時：改為結算封印在其上的[bless]標記。釋放該標記。\n[elder_sign] 效果: +1。 結算馬泰奧神父的 [fast] 能力, 忽略其限制。",
+        "traits": "信徒. 監守.",
+        "back_flavor": "馬泰奧·卡斯提爾自從成為神父後，日子一直都不好過。近十年來，墨西哥深受動亂與衝突之苦。馬泰奧神父一面希望守住自己的信仰，一面為了佈道，有時不得不忽視法律，但這並不是馬泰奧信仰動搖的主要原因。如他所料，周圍發生的凶殺案和綁架案，其動機與政治因素無關。在這場精心醞釀的紛爭背後，一個可怕而恐怖的邪教逐漸壯大。馬泰奧想知道，仁慈而可親的上帝怎能容許他那晚所見的事情發生呢？",
+        "back_text": "<b>卡牌張數：</b> 30.\n<b>牌組構建選項：</b> 潛修者([mystic])等級0-3，[[祝福]]卡牌等級0-5，中立卡牌等級0-5，最多5張其他帶有\"封印\"字樣的卡牌等級 0-5。\n<b>牌組構建需求</b> (不計入卡牌張數)： 古代抄本, 伊格蛇族, 1張隨機基礎弱點。\n"
     },
     {
         "code": "90082",
-        "name": "The Codex of Ages",
-        "subname": "finis omnium nunc est",
-        "text": "Father Mateo deck only. Advanced. Seal ([elder_sign] or up to 3 [bless]).\nYou get +1 to each of your skills while there is a token sealed here.\n[reaction] When an investigator at your location would reveal a chaos token from the chaos bag: That investigator resolves a token sealed here instead, then releases that token. (Limit once per test.)",
-        "traits": "Item. Relic. Tome. Blessed.",
+        "name": "古代抄本",
+        "subname": "現在一切都結束了",
+        "text": "馬泰奧神父牌組專用。進階。封印([elder_sign] 或最多3[bless]).\n只要有標記被封印於此，你每項技能+1。\n[reaction] 在你所在地點的一名調查員將要從混亂袋中抽出1個混亂標記時：該調查員結算一個封印在此的標記，然後釋放該標記。(每次檢定限制1次。)",
+        "traits": "道具. 遺物. 書籍. 祝福.",
         "slot": "Hand"
     },
     {
         "code": "90083",
-        "name": "Serpents of Yig",
-        "text": "Advanced. <b>Prey</b> - Father Mateo only. Hunter.\n<b>Revelation</b> - Search the chaos bag and all play areas for the [elder_sign] token and each [bless] token and seal them on Serpents of Yig.",
-        "traits": "Humanoid. Monster. Serpent."
+        "name": "伊格蛇族",
+        "text": "進階。<b>獵物</b> - 僅限馬泰奧神父。 獵手。\n<b>顯現</b> - 從混亂袋和所有遊戲區域中找出 [elder_sign] 和所有 [bless] 標記，將其封印在伊格蛇族上。",
+        "traits": "類人. 怪物. 蛇族."
     }
 ]
