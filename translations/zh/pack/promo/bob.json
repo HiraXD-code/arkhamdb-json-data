@@ -1,26 +1,26 @@
 [
     {
         "code": "98016",
-        "flavor": "\"Do you want to see true magic?\"",
-        "name": "Dexter Drake",
-        "subname": "The Magician",
-        "text": "[free] During your turn, discard an asset you control: Play an asset with a different title from your hand, reducing its cost by 1. (Limit once per round.)\n[elder_sign] effect: +2. You may return an asset from your play area to your hand. Then, draw 1 card.",
-        "traits": "Sorcerer. Veteran.",
+        "flavor": "\"想看看真正的魔法嗎？\"",
+        "name": "戴克斯特 德雷克",
+        "subname": "魔術師",
+        "text": "[free] 在你的回合中，丟棄一張你控制的支援卡：從你手牌打出一張不同名稱的支援卡，其費用減1(每輪限制一次)。\n[elder_sign] 效果：+2。你可以將你遊戲區域的一張支援卡返回你的手牌。然後，抽取1張卡牌。",
+        "traits": "法師. 老兵.",
         "back_flavor": "For Dexter Drake, the magic of fairy tales and myth has been a lifelong fascination. The chance discovery of an old book page during the Great War opened Drake's eyes to the possibility that magic might truly exist. Years later, the promise of arcane tomes locked away in Miskatonic University's special collection draws the successful stage magician to the quiet town of Arkham. Lured to an auction of occult items, \"Drake the Great\" and his assistant, Molly Maxwell, find themselves targeted by the depraved servants of an otherwordly force of disease and corruption. To save Molly, Arkham, and perhaps the world from a horrific transformation, Drake needs more than his wits and quick hands. He must turn to real magic, even if it risks his mind, body, and spirit.",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Mystic cards ([mystic]) level 0-5, Rogue cards ([rogue]) level 0-2, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Showmanship, Occult Scraps, 1 random basic weakness."
+        "back_text": "<b>牌組卡牌張數：</b> 30.\n<b>牌組構建選項：</b>潛修者卡牌([mystic])等級0-5，流浪者卡牌([rogue])等級0-2，中立卡牌等級0-5。\n<b>牌組構建需求</b> (不計入牌組卡牌張數): 精湛手法、密教殘頁、1張隨機基礎弱點。"
     },
     {
         "code": "98017",
-        "name": "Molly Maxwell",
-        "subname": "The Exotic Morgana",
-        "text": "Dexter Drake deck only. Replacement.\n[free] Exhaust Molly Maxwell and deal her 1 horror: Name any trait. One at a time, reveal cards from the top of your deck until an asset with the named trait is revealed. Draw that asset. Shuffle each other revealed card back into your deck.",
-        "traits": "Ally. Assistant.",
+        "name": "莫莉 麥克斯韋爾",
+        "subname": "異域摩根娜",
+        "text": "戴克斯特‧德雷克牌組專用。替換。\n[free]消耗莫莉·麥克斯韋爾並對她造成1點恐懼：聲明任何屬性。 一次一張, 從你的牌堆頂部揭示卡牌，直到揭示一張帶有聲明屬性的支援. 抽取該支援.將其它每張已揭示卡牌混洗回你的牌堆。",
+        "traits": "盟友. 助理.",
         "slot": "Ally"
     },
     {
         "code": "98018",
-        "name": "Yaztaroth",
-        "text": "Dexter Drake deck only. Replacement.\n<b>Revelation</b> - Put Yaztaroth into play in your threat area.\nYou cannot play assets or put assets into play.\n[action] [action]: Discard Yaztaroth.",
-        "traits": "Curse. Pact."
+        "name": "亞斯塔祿",
+        "text": "戴克斯特‧德雷克牌組專用。替換。\n<b>顯現</b> - 將亞斯塔祿放置入你的威脅區域。\n你不能將支援放置入場。\n[action] [action]: 丟棄亞斯塔祿。",
+        "traits": "詛咒. 契約."
     }
 ]
