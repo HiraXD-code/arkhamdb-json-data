@@ -1,26 +1,26 @@
 [
     {
         "code": "90084",
-        "flavor": "\"Oh honey, I'm making this up as I go along.\"",
-        "name": "Jenny Barnes",
-        "subname": "The Dilettante",
-        "text": "[reaction] After your turn begins: Play a [[Talent]] asset, reducing its cost by 1.\n[fast] Discard a [[Talent]] asset you control: Gain resources equal to that asset's printed cost. (Limit 5 resources per round.)\n[elder_sign] effect: +0. If you succeed, gain 3 resources.",
-        "traits": "Drifter. Socialite.",
-        "back_flavor": "Jenny Barnes has spent the majority of her young life in pursuit of creature comforts, fine dining, and the latest fashions. That all changed when she received a letter from her sister, Isabelle. In this letter, Isabelle confessed that mysterious forces were aligning against her and that she feared she may fall victim to some paranormal threat. It was the last letter Jenny received from her beloved sister. Jenny has since returned to the States to track down and investigate all occult occurrences she can find. Hardly a wilting flower, she has proven herself a crack shot as well as a fearless and clever investigator of the unknown. Until Isabelle's disappearance is explained, Jenny will never relent in her search.",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-3, Neutral cards level 0-5, up to 10 other non-permanent [[Talent]] cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Jenny's Twin .45s, Searching for Izzie, 1 random basic weakness."
+        "flavor": "\"親愛的，這都是我隨口說的。\"",
+        "name": "珍妮·巴恩斯",
+        "subname": "普通人",
+        "text": "[reaction] 在你回合開始後: 打出一張 [[才能]] 支援卡，其費用減1。\n[fast] 丟棄一張你控制的 [[才能]] 支援卡：: 獲得等於該支援卡打印費用的資源。(每輪限制5資源。) \n[elder_sign] 效果： +0. 如果成功，獲得3資源。",
+        "traits": "漂泊者. 社會名流.",
+        "back_flavor": "珍妮·巴恩斯把全部的青春都耗在了美食、時尚和享樂。直到她在巴黎度假時，收到了一份來自妹妹，伊莎貝拉的來信。信中說，她最近被一股黑暗勢力給盯上了，並且很有可能成為受害者。此後，伊莎貝拉便杳無音訊，這令珍妮十分擔心。她立刻決定返鄉，去尋找心愛妹妹的蹤跡，以及那些可疑份子的線索。在找到伊莎貝拉之前，她不會放棄搜索行動。她會用行動證明自己不是嬌花，而是聰明無畏的調查員。",
+        "back_text": "<b>卡牌張數</b>: 30.\n<b>牌組構建選項</b>: 流浪者([rogue]) )等級0-3，中立卡牌等級0-5，最多10張其它非永久 [[才能]] 卡牌等級0-5。\n<b>牌組構建選項</b> (不計入卡牌張數)：珍妮的.45雙槍、尋找伊莎貝拉、1張隨機基礎弱點。"
     },
     {
         "code": "90085",
-        "name": "Jenny's Twin .45s",
-        "subname": "A Perfect Fit",
-        "text": "Jenny Barnes deck only. Advanced. Uses (X ammo).\n[action] Spend 1 ammo: <b>Fight.</b> You get +2 [combat] for this attack. This attack deals +1 damage.\n[reaction] After you defeat an enemy using the above ability, exhaust Jenny's Twin .45s: Gain resources equal to that enemy's printed health.",
-        "traits": "Item. Weapon. Firearm.",
+        "name": "珍妮的.45雙槍",
+        "subname": "完美拍檔",
+        "text": "珍妮·巴恩斯牌組專用。進階。使用 (X子彈)。\n[action] 花費1子彈： <b>攻擊。</b> 這次攻擊中你+2 [combat] 。 這次攻擊造成+1傷害。\n[reaction] 在你藉由以上能力擊敗一名敵人後，消耗珍妮的.45雙槍: 獲得等同於該敵人印刷的生命值數量的資源。",
+        "traits": "道具. 武器. 槍械.",
         "slot": "Hand x2"
     },
     {
         "code": "90086",
-        "name": "Searching for Izzie",
-        "text": "Advanced.\n<b>Revelation</b> - Attach Searching for Izzie to the location farthest from you. Attached location gets +2 shroud.\n[action] [action]: <b>Investigate</b>. If you succeed, instead of discovering clues, discard Searching for Izzie.\n<b>Forced</b> - When the game ends, if Searching for Izzie is in play: You suffer 1 mental trauma.",
-        "traits": "Task."
+        "name": "尋找伊莎貝拉",
+        "text": "進階。\n<b>顯現</b> - 將尋找伊莎貝拉疊加到離你最遠的地點。疊加地點隱藏值+2。\n[action] [action]: <b>調查。</b>如果成功，不獲得線索，改為丟棄尋找伊莎貝拉。\n<b>強制</b> - 在遊戲結束時，如果尋找伊莎貝拉在場：珍妮·巴恩斯受到1點精神創傷。",
+        "traits": "任務."
     }
 ]
